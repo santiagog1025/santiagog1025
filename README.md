@@ -10,8 +10,8 @@
 
 ## 🚀 What I do
 
-- 🧠 Develop AI-powered web apps using **Python, FastAPI, LangChain, RAG, Streamlit, React, and JavaScript**
-- ☁️ Deploy production-ready systems using **AWS** and **Modular Components Pipelines (MCPs)**
+- 🧠 Develop AI-powered web apps using **Python, FastAPI, LangChain, RAG, Model Context Protocols, Streamlit, React, and JavaScript**
+- ☁️ Deploy production-ready systems using **AWS** and **Azure**
 - 📊 Extract insights from economic, labor, and financial data
 - 🗂️ Build and optimize **LLM-based** tools for CV analysis, career guidance, and educational recommendations
 
