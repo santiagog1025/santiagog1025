@@ -3,8 +3,6 @@
 
 🎓 **AI Developer & Economist** | 🧠 Passionate about machine learning, NLP, and data-driven innovation
 
-<img alt= "top langs" width = 100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagog1025&size_weight=0.5&count_weight=5&layout=compact"/>
-
 > “Transforming data into decisions — one model at a time.”
 
 
