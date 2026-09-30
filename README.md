@@ -1,26 +1,30 @@
+# Hi, I'm Santiago Garcia 👋
 
-# 👋 Hi, I'm Santiago García
+**AI Engineer & Software Engineer** in Cali, Colombia 🇨🇴
 
-🎓 **AI Developer & Economist** | 🧠 Passionate about machine learning, NLP, and data-driven innovation
+I build the systems around the model: APIs, queues, data pipelines, cloud infrastructure and the architecture that gets AI into production, not just into a demo.
 
-> “Transforming data into decisions — one model at a time.”
+🌐 **Portfolio:** [sgarciam.com](https://sgarciam.com) (English · [Español](https://sgarciam.com/es/))
 
+## What I work on
 
-## 🚀 What I do
+- **Production AI platforms**: queue-driven workers, LLM pipelines with schema validation, hybrid vector + keyword retrieval, real-time voice agents
+- **Multi-tenant SaaS on Google Cloud**: FastAPI + Next.js on Cloud Run, Cloud SQL, Cloud Build
+- **Agent tooling**: Model Context Protocol servers and tool-calling agents
+- **Local AI**: [BMO](https://sgarciam.com/work/bmo/), a physical assistant on a Raspberry Pi 5 with a local GPU box for inference
 
-- 🧠 Develop AI-powered web apps using **Python, FastAPI, LangChain, RAG, Model Context Protocols, Streamlit, React, and JavaScript**
-- ☁️ Deploy production-ready systems using **AWS** and **Azure**
-- 📊 Extract insights from economic, labor, and financial data
-- 🗂️ Build and optimize **LLM-based** tools for CV analysis, career guidance, and educational recommendations
+## Stack
 
-## 🏆 Highlights
+Python · FastAPI · PostgreSQL / pgvector · LLMs · Azure · Google Cloud · Docker · Next.js / TypeScript
 
-- 🥇 **AI Hackathon Winner** – Built a CEFR-based English proficiency tool that evaluates reading, speaking, and listening skills using generative AI
-- 💼 **Internship at ProPacífico** – Led data analysis for regional development projects, building dashboards and applying statistical models to support decision-making
+## Highlights
 
-## 📫 Connect with me
+- 🥉 Third place, first Datathon del Pacífico (2023)
+- 🏆 Generative AI hackathon winner: a CEFR tool that evaluates reading, speaking and listening
+- 📜 IBM Generative AI Engineering with LLMs · Google Advanced Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20García-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/santiago-garcia-m/)
+## Get in touch
 
----
+Open to AI engineering roles and consulting projects.
 
+[Portfolio](https://sgarciam.com) · [Contact form](https://sgarciam.com/contact/) · [LinkedIn](https://www.linkedin.com/in/santiago-garcia-m/)
