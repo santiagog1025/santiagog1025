@@ -8,9 +8,9 @@ I build the systems around the model: APIs, queues, data pipelines, cloud infras
 
 ## What I work on
 
-- **Production AI platforms**: queue-driven workers, LLM pipelines with schema validation, hybrid vector + keyword retrieval, real-time voice agents
 - **Multi-tenant SaaS on Google Cloud**: FastAPI + Next.js on Cloud Run, Cloud SQL, Cloud Build
-- **Agent tooling**: Model Context Protocol servers and tool-calling agents
+- **Document automation**: reading Colombian e-invoices (DIAN UBL 2.1) straight from a mailbox
+- **LLM agents and tooling**: tool-calling agents, multi-agent pipelines and retrieval
 - **Local AI**: [BMO](https://sgarciam.com/work/bmo/), a physical assistant on a Raspberry Pi 5 with a local GPU box for inference
 
 ## Stack
